@@ -33,5 +33,5 @@ $ kubectl -n kube-system describe secret $(kubectl -n kube-system get secret | g
 ![image](https://user-images.githubusercontent.com/80587939/131612245-5cb0d17a-f639-4858-81fd-fa66fc40a6d3.png)
 
 
-## referensi
+### Referensi
 https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html
