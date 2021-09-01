@@ -1,10 +1,6 @@
 # K8S-dashboard
 How to create k8s dashboard for monitoring
 
-
-# K8S-dashboard
-How to create k8s dashboard for monitoring
-
 ## Create file recommended.yaml, ada 2 cara :
 ## 1. Menggunakan kubectl
 
